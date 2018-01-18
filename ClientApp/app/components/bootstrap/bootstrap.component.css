@@ -1,0 +1,8 @@
+.row .c{
+    height:auto;
+    background-color: lightblue;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 5px;
+    box-shadow: #6babbf 2px 3px;
+}
