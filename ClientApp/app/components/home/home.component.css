@@ -5,8 +5,8 @@
 }
 
 .info-tile{
-    width:250px;
-    height:250px;
-    background-color: lightblue;
-    margin: 10px;
+    padding:25px;
+}
+.tile{
+    background-color: lightgreen;
 }
